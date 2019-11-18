@@ -9,6 +9,8 @@ public class First {
 		System.out.println("Hello master");
 		
 		System.out.println("Sprint2 commit");
+		
+		System.out.println("Master Commit again");
 	}
 
 }
